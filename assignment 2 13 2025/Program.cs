@@ -17,7 +17,7 @@ namespace assignment_2_13_2025
     internal class Program
     {
         //the data structure to store the student list
-        static List<string> list = new List<string>(); //global list
+        static List<string> studnets = new List<string>(); //global list
 
         //method to process to add a studnet
         static void AddStudent()
